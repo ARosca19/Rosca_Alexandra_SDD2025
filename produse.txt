@@ -1,0 +1,6 @@
+3 Cafea Alimentar 25.5 3 100 120 90 Tchibo
+1 Detergent Curatenie 18.7 2 50 55 Ariel
+6 Microunde Electrocasnice 4326.78 5 1 6 7 3 2 Toshiba
+5 Laptop Electronice 3599.99 4 5 3 6 2 HP
+2 Paine Alimentar 6.5 1 300 VelPitar
+4 Telefon Electronice 2999.99 3 4 2 5 Samsung
