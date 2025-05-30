@@ -1,0 +1,9 @@
+4
+1 Matematica 7.5 6.5 Popescu 12.06.2024 90
+2 Informatica 8.0 9.5 Ionescu 10.06.2024 120
+3 Fizica 5.0 6.0 Georgescu 15.06.2024 60
+4 Chimie 9.5 9.0 Marinescu 18.06.2024 75
+3
+0 1
+1 2
+2 3
